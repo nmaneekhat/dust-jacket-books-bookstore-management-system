@@ -105,7 +105,7 @@ GET    | `/api/books`      | Get all books
 ---
 
 ## Team & Roles
-### **Narinthon (Backend/APIs)**
+### Narinthon (Backend/APIs)
 ### Grace (Frontend/UI)
 ### John (Logic & Testing)
 ### Ngbra (Database)
