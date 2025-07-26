@@ -105,17 +105,7 @@ GET    | `/api/books`      | Get all books
 ---
 
 ## Team & Roles
-### Narinthon (Backend/APIs)
-### Grace (Frontend/UI)
-### John (Logic & Testing)
-### Ngbra (Database)
-
----
-
-## Skills Demonstrated
-
-- RESTful API development
-- NoSQL data modeling with MongoDB
-- Environment-based configuration
-- Git collaboration & version control
-- API testing & debugging with Postman
+**Narinthon (Backend/APIs)**
+Grace (Frontend/UI)
+John (Logic & Testing)
+Ngbra (Database)
