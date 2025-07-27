@@ -3,7 +3,7 @@
 This is the backend API for **Dust Jacket Books**, a full-stack bookstore management system. It provides endpoints for managing books, inventory, and search functionality.
 
 Built with modern JavaScript tools and deployed using team-based GitHub collaboration.
-
+## jk note  
 ---
 ## Skills Demonstrated
 
